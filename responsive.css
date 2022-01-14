@@ -1,0 +1,46 @@
+@media only screen and (max-width: 600px) {
+  /* For mobile phones: */
+  *{
+    width: fit-content;
+    text-align: left;
+  }
+  body {
+    display: block;
+    min-height: 20vh;
+    margin: 0;
+  }
+#top-header{
+  margin: 0 10px;
+}
+  #top-header img{
+    width: 40%;
+  }
+  #menu{
+    text-align: center;
+    
+  }
+  #menu ul li{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    margin: 10px;
+    padding: 5px 10px;
+    text-align: center;
+    width: fit-content;
+    float: left;
+  }
+  #bottom-header{
+    margin: 0 10px;
+    text-align: left;
+    clear: both;
+  }
+  
+}@media only screen 
+    and (device-width : 375px) 
+    and (device-height : 812px) 
+    and (-webkit-device-pixel-ratio : 3) {
+      col-1 {
+        display: none;
+      }
+    }
