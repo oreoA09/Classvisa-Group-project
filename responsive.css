@@ -35,10 +35,10 @@
     text-align: left;
     clear: both;
   }
-  #video{
+/*   #video{
     width:480px; 
     height=240px;
-  }
+  } */
   
 }@media only screen 
     and (device-width : 375px) 
