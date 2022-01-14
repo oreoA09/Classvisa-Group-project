@@ -136,6 +136,10 @@ color:black;
     margin: 1rem 0;
     line-height: 30px;
   }
+#video{
+width: 850px;
+height: 480px;
+}
   
   main li{
     margin: 0 2rem;
