@@ -11,13 +11,14 @@
     min-height: 100vh;
     flex-direction: row;
     margin: 0;
-	  width: auto;
+	  
   }
   .col-1 {
     background: #3a56a1;
     flex: 1;
     transition: all 0.5s ease;
 	  text-align:center;
+	  width: auto;
   }
   .col-2 {
     display: flex;
