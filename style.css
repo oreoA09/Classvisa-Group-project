@@ -118,8 +118,11 @@ color:black;
   .content > article {
     flex: 4;
     min-height: 60vh;
+	  width: 100%;
   }
-
+iframe{
+	width: 100%;
+}
   span{
     color: #ffc107;
   }
